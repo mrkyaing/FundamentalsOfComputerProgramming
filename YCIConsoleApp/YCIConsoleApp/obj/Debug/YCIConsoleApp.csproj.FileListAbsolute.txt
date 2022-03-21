@@ -1,0 +1,8 @@
+C:\Users\DELL\Source\Repos\YCIConsoleApp\YCIConsoleApp\bin\Debug\YCIConsoleApp.exe.config
+C:\Users\DELL\Source\Repos\YCIConsoleApp\YCIConsoleApp\bin\Debug\YCIConsoleApp.exe
+C:\Users\DELL\Source\Repos\YCIConsoleApp\YCIConsoleApp\bin\Debug\YCIConsoleApp.pdb
+C:\Users\DELL\Source\Repos\YCIConsoleApp\YCIConsoleApp\obj\Debug\YCIConsoleApp.csproj.AssemblyReference.cache
+C:\Users\DELL\Source\Repos\YCIConsoleApp\YCIConsoleApp\obj\Debug\YCIConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\YCIConsoleApp\YCIConsoleApp\obj\Debug\YCIConsoleApp.exe
+C:\Users\DELL\Source\Repos\YCIConsoleApp\YCIConsoleApp\obj\Debug\YCIConsoleApp.pdb
+C:\Users\DELL\Source\Repos\YCIConsoleApp\YCIConsoleApp\obj\Debug\YCIConsoleApp.csproj.SuggestedBindingRedirects.cache

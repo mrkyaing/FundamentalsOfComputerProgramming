@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YCIConsoleApp", "YCIConsoleApp\YCIConsoleApp.csproj", "{7081549A-792F-49E4-B88D-33122E1279DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPDemo", "OOPDemo\OOPDemo.csproj", "{199C9AF4-619E-4DDC-A78C-7E4D2BA271E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7081549A-792F-49E4-B88D-33122E1279DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7081549A-792F-49E4-B88D-33122E1279DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7081549A-792F-49E4-B88D-33122E1279DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7081549A-792F-49E4-B88D-33122E1279DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{199C9AF4-619E-4DDC-A78C-7E4D2BA271E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199C9AF4-619E-4DDC-A78C-7E4D2BA271E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199C9AF4-619E-4DDC-A78C-7E4D2BA271E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199C9AF4-619E-4DDC-A78C-7E4D2BA271E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7AD5671-1D7B-4B0E-9ED0-1F666148EBB4}
+	EndGlobalSection
+EndGlobal

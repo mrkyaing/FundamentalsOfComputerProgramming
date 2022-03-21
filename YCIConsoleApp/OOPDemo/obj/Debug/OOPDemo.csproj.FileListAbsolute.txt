@@ -1,0 +1,8 @@
+C:\Users\DELL\Source\Repos\YCIConsoleApp\OOPDemo\bin\Debug\OOPDemo.exe.config
+C:\Users\DELL\Source\Repos\YCIConsoleApp\OOPDemo\bin\Debug\OOPDemo.exe
+C:\Users\DELL\Source\Repos\YCIConsoleApp\OOPDemo\bin\Debug\OOPDemo.pdb
+C:\Users\DELL\Source\Repos\YCIConsoleApp\OOPDemo\obj\Debug\OOPDemo.csproj.AssemblyReference.cache
+C:\Users\DELL\Source\Repos\YCIConsoleApp\OOPDemo\obj\Debug\OOPDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Source\Repos\YCIConsoleApp\OOPDemo\obj\Debug\OOPDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\YCIConsoleApp\OOPDemo\obj\Debug\OOPDemo.exe
+C:\Users\DELL\Source\Repos\YCIConsoleApp\OOPDemo\obj\Debug\OOPDemo.pdb
