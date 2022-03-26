@@ -6,3 +6,10 @@ C:\Users\DELL\Source\Repos\YCIConsoleApp\OOPDemo\obj\Debug\OOPDemo.csproj.Sugges
 C:\Users\DELL\Source\Repos\YCIConsoleApp\OOPDemo\obj\Debug\OOPDemo.csproj.CoreCompileInputs.cache
 C:\Users\DELL\Source\Repos\YCIConsoleApp\OOPDemo\obj\Debug\OOPDemo.exe
 C:\Users\DELL\Source\Repos\YCIConsoleApp\OOPDemo\obj\Debug\OOPDemo.pdb
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\OOPDemo\bin\Debug\OOPDemo.exe.config
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\OOPDemo\bin\Debug\OOPDemo.exe
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\OOPDemo\bin\Debug\OOPDemo.pdb
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\OOPDemo\obj\Debug\OOPDemo.csproj.AssemblyReference.cache
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\OOPDemo\obj\Debug\OOPDemo.csproj.CoreCompileInputs.cache
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\OOPDemo\obj\Debug\OOPDemo.exe
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\OOPDemo\obj\Debug\OOPDemo.pdb
