@@ -58,12 +58,34 @@ namespace OOPDemo
                 s1.GetInfo();
 
                 Student s2 = new Student();
-                s2.SetRollNo(-10);//Sensitive Data here 
+                s2.SetRollNo(10);//Sensitive Data here 
                 s2.SetName("Khin Khin");
                 s2.SetEmail("khinkhin@gmail.com");
-                s2.SetAge(-10);//Sensitive Data here 
-                s2.SetPhone("09256275319123");
+                s2.SetAge(10);//Sensitive Data here 
+                s2.SetPhone("09256275319");
                 s2.GetInfo();
+
+                Console.WriteLine("===============================");
+                Person p1 = new Person();
+                p1.Name = "Mg Mg";//set the value by using C# Properties 
+                p1.Address = "No(12),Latha,Latha Township,Yangon";//set the value by using C# Properties 
+                p1.Age = 20;//set the value by using C# Properties 
+                p1.Email = "mgmg@gmail.com";
+                Console.WriteLine(p1.Name);//get the value by using C# Proerities >Output Mg Mg 
+                Console.WriteLine(p1.Address);//
+                Console.WriteLine(p1.Age);
+                Console.WriteLine(p1.Email);
+
+                Console.WriteLine("===============================");
+                Person p2 = new Person();
+                p2.Name = "Su Su";//set the value by using C# Properties 
+                p2.Address = "No(12),Latha,Latha Township,Yangon";//set the value by using C# Properties 
+                p2.Age = -20;//set the value by using C# Properties 
+                p2.Email = "susu@gmail.com";
+                Console.WriteLine(p2.Name);//get the value by using C# Properties 
+                Console.WriteLine(p2.Address);//get the value by using C# Properties 
+                Console.WriteLine(p2.Age);//get the value by using C# Properties 
+                Console.WriteLine(p2.Email);
             }
             catch (Exception ex)
             {

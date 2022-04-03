@@ -1,0 +1,7 @@
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\AbstractionDemo\bin\Debug\AbstractionDemo.exe.config
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\AbstractionDemo\bin\Debug\AbstractionDemo.exe
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\AbstractionDemo\bin\Debug\AbstractionDemo.pdb
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\AbstractionDemo\obj\Debug\AbstractionDemo.csproj.AssemblyReference.cache
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\AbstractionDemo\obj\Debug\AbstractionDemo.csproj.CoreCompileInputs.cache
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\AbstractionDemo\obj\Debug\AbstractionDemo.exe
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\AbstractionDemo\obj\Debug\AbstractionDemo.pdb

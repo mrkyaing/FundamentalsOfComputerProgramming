@@ -1,0 +1,7 @@
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.AssemblyReference.cache
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.CoreCompileInputs.cache
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\InheritanceDemo\obj\Debug\InheritanceDemo.pdb
