@@ -1,0 +1,7 @@
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\DataStructureDemo\bin\Debug\DataStructureDemo.exe.config
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\DataStructureDemo\bin\Debug\DataStructureDemo.exe
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\DataStructureDemo\bin\Debug\DataStructureDemo.pdb
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\DataStructureDemo\obj\Debug\DataStructureDemo.csproj.AssemblyReference.cache
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\DataStructureDemo\obj\Debug\DataStructureDemo.csproj.CoreCompileInputs.cache
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\DataStructureDemo\obj\Debug\DataStructureDemo.exe
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\DataStructureDemo\obj\Debug\DataStructureDemo.pdb
