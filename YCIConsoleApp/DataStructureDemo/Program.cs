@@ -62,14 +62,15 @@ namespace DataStructureDemo
                 data.Push(1);
                 data.Push(2);
                 data.Push(3);
-                for (int i = 0; i < 5; i++)
-                {
-                    Console.WriteLine(data.Pop());
+                int sizeofStack = data.Count;
+                for (int i = 0; i < sizeofStack; i++)//3
+                {                 
+                    Console.WriteLine(data.Peek());
+                    //data.Pop();
                 }
             }
             catch (Exception ex)
             {
-
                 Console.WriteLine(ex.Message);//stack is empty
             }
 
@@ -79,7 +80,7 @@ namespace DataStructureDemo
                 sayGreeting.Enqueue("hi");//0
                 sayGreeting.Enqueue("hello");//1
                 sayGreeting.Enqueue("good evening");//2
-                int queueCount = sayGreeting.Count;
+                int queueCount = sayGreeting.Count;//3
                 for(int i = 0; i <queueCount; i++)//sayGreeging wil be 3
                 {
                     Console.WriteLine(sayGreeting.Dequeue());//
