@@ -66,7 +66,7 @@ namespace DataStructureDemo
                 for (int i = 0; i < sizeofStack; i++)//3
                 {                 
                     Console.WriteLine(data.Peek());
-                    //data.Pop();
+                    data.Pop();
                 }
             }
             catch (Exception ex)
