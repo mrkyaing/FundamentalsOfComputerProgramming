@@ -91,6 +91,51 @@ namespace DataStructureDemo
                 Console.WriteLine(ex.Message);//Queue is empty
             }
 
+            int pass = 0;
+            int failure = 0;
+            int studentCount = 1;
+            while (studentCount <= 10)
+            {
+                Console.Write("Enter Mark");
+                int mark =int.Parse( Console.ReadLine());
+                if (mark >= 40)
+                {
+                    pass++;
+                }
+                else
+                {
+                    failure++;
+                }
+                studentCount++;
+            }
+            Console.WriteLine("passed Student Count " + pass);
+            Console.WriteLine("failed student count " + failure);
+            if (pass >= 8)
+            {
+                Console.WriteLine("raise tution");
+            }
+
+            try
+            {
+                int[] numbers = { 11, 12, 34, 56, 77, 120, 9 };
+                Console.Write("Enter Searh Key");
+                int searchKey = int.Parse(Console.ReadLine());//8
+                LinearSearch linearSearch = new LinearSearch();//Create the object (instance of LinearSearch Class)
+                int reuslt = linearSearch.SearchKey(searchKey, numbers);
+                if (reuslt == (-1))
+                {
+                    Console.WriteLine("your finding key don't found in array");
+                }
+                else
+                {
+                    Console.WriteLine("your finding key found in array ");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("we only accept number value in your input");
+            }
+
             Console.WriteLine("press any key to close this window");
             Console.ReadKey();
         }

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2A97C59F-F132-4CAB-A39F-F073F297125B}</ProjectGuid>
+    <ProjectGuid>{3315740E-21EB-4D83-93F6-3CD23950AF23}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DataStructureDemo</RootNamespace>
-    <AssemblyName>DataStructureDemo</AssemblyName>
+    <RootNamespace>CRUDDemoWithConsoleProram</RootNamespace>
+    <AssemblyName>CRUDDemoWithConsoleProram</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LinearSearch.cs" />
+    <Compile Include="DatabaseConnection.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="User.cs" />
+    <Compile Include="UserModel.cs" />
+    <Compile Include="UserService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
