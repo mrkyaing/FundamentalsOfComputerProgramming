@@ -1,0 +1,10 @@
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\LoginGUI\bin\Debug\LoginGUI.exe.config
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\LoginGUI\bin\Debug\LoginGUI.exe
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\LoginGUI\bin\Debug\LoginGUI.pdb
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\LoginGUI\obj\Debug\LoginGUI.csproj.AssemblyReference.cache
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\LoginGUI\obj\Debug\LoginGUI.frmLogIn.resources
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\LoginGUI\obj\Debug\LoginGUI.Properties.Resources.resources
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\LoginGUI\obj\Debug\LoginGUI.csproj.GenerateResource.cache
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\LoginGUI\obj\Debug\LoginGUI.csproj.CoreCompileInputs.cache
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\LoginGUI\obj\Debug\LoginGUI.exe
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\LoginGUI\obj\Debug\LoginGUI.pdb

@@ -10,12 +10,11 @@ namespace CRUDDemoWithConsoleProram
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("proram started");
             Console.WriteLine("This Program is CRUD(Create,Reterive,Update,Delete) Process");
             string inputstatus = "";   
             programStart:
-            Console.WriteLine("please choose 1(Insert),2(Show),3(Delete),4(Update)");
+            Console.WriteLine("please choose 1:Insert),2:Show),3:Delete),4:Update)");
             UserService userService = new UserService();
             UserModel usermodel = new UserModel();
             inputstatus = Console.ReadLine();
@@ -40,7 +39,8 @@ namespace CRUDDemoWithConsoleProram
                             bool result = DecisionForNextTime();
                             if (result)
                                 goto programStart;
-                            else IsContinute = false;
+                            else 
+                                IsContinute = false;
                         }
                         break;
                     case "2":
@@ -81,8 +81,7 @@ namespace CRUDDemoWithConsoleProram
                     default: Console.WriteLine("Invalid User input(we Only accept 1,2,3,4 Numbers)");
                         goto programStart;
                 }
-            }
-            
+            }    
             Console.WriteLine("press any key to close this window");
             Console.ReadKey();
         }
@@ -93,8 +92,7 @@ namespace CRUDDemoWithConsoleProram
             if (ques.Equals("y")) 
                 return true;
             else
-                return false;
-             
+                return false;     
         }
     }
 }

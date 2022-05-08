@@ -1,0 +1,10 @@
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\HelloWorldGUI\bin\Debug\HelloWorldGUI.exe.config
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\HelloWorldGUI\bin\Debug\HelloWorldGUI.exe
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\HelloWorldGUI\bin\Debug\HelloWorldGUI.pdb
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\HelloWorldGUI\obj\Debug\HelloWorldGUI.csproj.AssemblyReference.cache
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\HelloWorldGUI\obj\Debug\HelloWorldGUI.Form1.resources
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\HelloWorldGUI\obj\Debug\HelloWorldGUI.Properties.Resources.resources
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\HelloWorldGUI\obj\Debug\HelloWorldGUI.csproj.GenerateResource.cache
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\HelloWorldGUI\obj\Debug\HelloWorldGUI.csproj.CoreCompileInputs.cache
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\HelloWorldGUI\obj\Debug\HelloWorldGUI.exe
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\HelloWorldGUI\obj\Debug\HelloWorldGUI.pdb
