@@ -64,6 +64,18 @@
     <Compile Include="UI\LoginUI.Designer.cs">
       <DependentUpon>LoginUI.cs</DependentUpon>
     </Compile>
+    <Compile Include="UI\UserListUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\UserListUI.Designer.cs">
+      <DependentUpon>UserListUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\UserUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\UserUI.Designer.cs">
+      <DependentUpon>UserUI.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -78,6 +90,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UI\LoginUI.resx">
       <DependentUpon>LoginUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\UserListUI.resx">
+      <DependentUpon>UserListUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\UserUI.resx">
+      <DependentUpon>UserUI.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

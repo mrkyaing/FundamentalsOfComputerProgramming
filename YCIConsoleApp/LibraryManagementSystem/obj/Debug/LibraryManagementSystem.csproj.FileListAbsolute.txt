@@ -9,3 +9,5 @@ E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\Libra
 E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
 E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
 E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UI.DashboardUI.resources
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UI.UserUI.resources
+E:\YCICSharpPrograms\FundamentalsOfComputerProgrammingWithC-\YCIConsoleApp\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UI.UserListUI.resources

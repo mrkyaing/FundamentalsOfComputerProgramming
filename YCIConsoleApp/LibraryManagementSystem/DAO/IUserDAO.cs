@@ -9,5 +9,9 @@ namespace LibraryManagementSystem.DAO
    public interface IUserDAO
     {
         UserModel GetUser(string userName, string password);
+        void SaveUser(UserModel user);
+        int GetMaxUserId();
+        List<UserModel> GetAllUser();
+
     }
 }

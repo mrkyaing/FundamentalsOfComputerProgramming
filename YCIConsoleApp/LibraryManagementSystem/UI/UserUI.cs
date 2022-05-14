@@ -1,0 +1,65 @@
+﻿using LibraryManagementSystem.DAO;
+using LibraryManagementSystem.Models;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace LibraryManagementSystem.UI
+{
+    public partial class UserUI : Form
+    {
+        public UserUI()
+        {
+            InitializeComponent();
+        }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string username = txtUserName.Text;
+                string email = txtEmail.Text;
+                string password = txtPassword.Text;
+                string confirmpassword = txtConfirmPassword.Text;
+                string role = null;
+                if (password != confirmpassword)
+                {
+                    MessageBox.Show("password and confirm password does not match");
+                    return;
+                }
+                if (rdoAdmin.Checked)
+                {
+                    role = "admin";
+                }
+                else if (rdoStaff.Checked)
+                {
+                    role = "staff";
+                }
+                IUserDAO userDAO = new UserService();
+                int maxUserId = userDAO.GetMaxUserId();//4
+                maxUserId++;//5
+                UserModel user = new UserModel()
+                {
+                    Id =maxUserId,
+                    UserName = username,
+                    Email = email,
+                    Password = password,
+                    Role = role
+                };
+               
+                userDAO.SaveUser(user);
+                MessageBox.Show("Save Success");
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Error when saving user record.");
+            }
+        }
+    }
+}

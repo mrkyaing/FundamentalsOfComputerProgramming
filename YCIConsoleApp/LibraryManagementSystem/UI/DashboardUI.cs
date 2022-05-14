@@ -65,17 +65,6 @@ namespace LibraryManagementSystem.UI
         private void PasteToolStripMenuItem_Click(object sender, EventArgs e)
         {
         }
-
-        private void ToolBarToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            toolStrip.Visible = toolBarToolStripMenuItem.Checked;
-        }
-
-        private void StatusBarToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            statusStrip.Visible = statusBarToolStripMenuItem.Checked;
-        }
-
         private void CascadeToolStripMenuItem_Click(object sender, EventArgs e)
         {
             LayoutMdi(MdiLayout.Cascade);
@@ -102,6 +91,23 @@ namespace LibraryManagementSystem.UI
             {
                 childForm.Close();
             }
+        }
+
+        private void authorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void userListToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            UserListUI userListUI = new UserListUI();
+            userListUI.Show();
+        }
+
+        private void addUserToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            UserUI userUI = new UserUI();
+            userUI.Show();
         }
     }
 }
