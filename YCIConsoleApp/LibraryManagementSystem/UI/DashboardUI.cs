@@ -109,5 +109,17 @@ namespace LibraryManagementSystem.UI
             UserUI userUI = new UserUI();
             userUI.Show();
         }
+
+        private void logoutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show("are you sure to logout?", "Logout Confirm", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (result.Equals(DialogResult.Yes))
+            {
+                LoginUI loginUI = new LoginUI();
+                loginUI.Show();
+                this.Hide();
+            }
+           
+        }
     }
 }

@@ -13,5 +13,9 @@ namespace LibraryManagementSystem.DAO
         int GetMaxUserId();
         List<UserModel> GetAllUser();
 
+        void UpdateUser(UserModel user);
+        bool DeleteByUserId(int userId);
+
+        UserModel GetUserModelByUserId(int userId);
     }
 }
