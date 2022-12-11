@@ -17,7 +17,7 @@ namespace AbstractionDemo
         public void SalaryTransferToBankAccount(int accountNo, double totalSalary)
         {
             Console.WriteLine("Payroll have been run successfully.You can withdraw your salary in your bank account");
-            Console.WriteLine(totalSalary + " is transfer to this bank account " + accountNo);
+            Console.WriteLine(totalSalary + " is transfered to this bank account " + accountNo);
         }
     }
 }
