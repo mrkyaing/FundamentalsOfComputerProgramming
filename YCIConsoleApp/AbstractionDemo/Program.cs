@@ -33,14 +33,14 @@ namespace AbstractionDemo
             ep.SayGreetingMessage();
 
             Console.WriteLine("Payroll calculation is here .");
-            Staff staff1 = new Staff();
-            staff1.Name = "U Aye Mya";
-            staff1.Address = "No(12),DawBone Township,Yangon";
-            staff1.Email = "ayemya@gmail.com";
-            staff1.BaseSalary = 300000;
-            staff1.ShowStaffDetailInfo();
+            Staff staff = new Staff();
+            staff.Name = "U Aye Mya";
+            staff.Address = "No(12),DawBone Township,Yangon";
+            staff.Email = "ayemya@gmail.com";
+            staff.BaseSalary = 300000;
+            staff.ShowStaffDetailInfo();
             IPayrollService payroll = new PayrollService();
-            double monthdalary=payroll.CalculatePayroll(staff1.BaseSalary, 30, 10000, 0);
+            double monthdalary=payroll.CalculatePayroll(staff.BaseSalary, 30, 10000, 0);
             payroll.SalaryTransferToBankAccount(102307410, monthdalary);
             ICreditCard creditCard = new BankAccount();
             double resultOfUSDAmt = creditCard.GetUSDExchangeRate(500);
