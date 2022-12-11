@@ -10,7 +10,7 @@ namespace AbstractionDemo
     {
         public void ShowStaffDetailInfo()
         {
-            Console.WriteLine("Hi,i can do multi-inheritance with interface.");
+            Console.WriteLine("Hi,i can do multiple inheritances with interface.");
         }
     }
 }
